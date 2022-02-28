@@ -1,0 +1,15 @@
+body{
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: bisque;
+}
+#text{
+    border:5px solid palevioletred ;
+    margin-right:625px;
+    padding:5px 5px;
+    font-size:x-large;
+    color: darkslateblue;
+}
+u{
+    color: brown;
+}
